@@ -10,3 +10,6 @@ name = "88-merge-sorted-array"
 
 [[bin]]
 name = "27-remove-element"
+
+[[bin]]
+name = "26-remove-duplicates-from-sorted-array"
