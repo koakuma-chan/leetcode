@@ -7,3 +7,6 @@ edition = "2021"
 
 [[bin]]
 name = "88-merge-sorted-array"
+
+[[bin]]
+name = "27-remove-element"
