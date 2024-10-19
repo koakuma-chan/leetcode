@@ -13,3 +13,6 @@ name = "27-remove-element"
 
 [[bin]]
 name = "26-remove-duplicates-from-sorted-array"
+
+[[bin]]
+name = "80-remove-duplicates-from-sorted-array-ii"
