@@ -20,3 +20,5 @@ name = "80-remove-duplicates-from-sorted-array-ii"
 [[bin]]
 name = "169-majority-element"
 
+[[bin]]
+name = "189-rotate-array"
